@@ -30,13 +30,13 @@ To get started with Mapty, follow these steps:
 1. Clone the repository:
 
 ```
-git clone <repository-url>
+git clone https://github.com/mohamad-samir/Mapty.git
 ```
 
 2. Open the project directory:
 
 ```
-cd mapty-project
+cd Mapty
 ```
 
 3. Open the `index.html` file in your web browser to run the application.
